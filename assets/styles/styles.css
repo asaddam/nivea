@@ -1,0 +1,119 @@
+body {
+    background-size: cover;
+    background: url(/Users/user/Documents/apps/nivea/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed;
+    background: url(/Users/user/Documents/apps/nivea/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed, linear-gradient(#ffffff, #ffffff);;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+}
+
+
+
+.header {
+    max-width: 100%;
+    max-height: 60%;
+    align-items: center;
+    display: block;
+}
+
+.sosmed {
+    align-items: center;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+    padding-right: 25%;
+    padding-left: 38%;
+}
+
+.icon {
+    max-width: 12%;
+    align-items: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.description {
+    color: #00136f;
+    text-align: left;
+    display: block;
+    margin: auto;
+    font-size: 1.1vw;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.my-button {
+    size: 1.5vw;
+}
+
+button {
+    background-color: #00136f;
+    padding: 1vw 1vw;
+    color: white;
+    border-radius: 60px;
+    text-decoration: solid;
+    font-size: 1.2vw;
+    font-weight: bold;
+    margin: 6% 30%;
+    letter-spacing: 2px;
+    size: 1.5vw;
+    display: block;
+    width: 30em;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: grid;
+    margin-top: 10%;
+}
+.info {
+    float: left;
+    font-size: 1vw;
+    color: #00136f;
+    text-align: justify;
+    display: block;
+    word-wrap: normal;
+    max-width: 32%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+.call {
+    float: left;
+    font-size: 1vw;
+    color: #00136f;
+    margin-right: 46%;
+    max-width: 65%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+}
+
+.footer{
+    text-align: center;
+    font-size: 1vw;
+    color: #00136f;
+}
+
+.statement {
+    font-weight: bold;
+    margin-bottom: -1%;
+}
+.link {
+    font-weight: bold;
+    color: #00136f;
+    font-style: italic;
+    font: outline;
+}
