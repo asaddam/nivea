@@ -85,7 +85,7 @@ button:hover {
     text-align: justify;
     display: block;
     word-wrap: normal;
-    max-width: 32%;
+    max-width: 33%;
     margin-top: 1%;
     margin-bottom: 1%;
 
@@ -94,8 +94,7 @@ button:hover {
     float: left;
     font-size: 1vw;
     color: #00136f;
-    margin-right: 46%;
-    max-width: 65%;
+    width: 67%;
     margin-top: 2%;
     margin-bottom: 1%;
 
