@@ -35,8 +35,8 @@ html {
 
 .sosmed {
     align-items: center;
-    border-top: solid black 2px;
-    border-bottom: solid black 2px;
+    border-top: solid black 0.1em;
+    border-bottom: solid black 0.1em;
     padding-right: 25%;
     padding-left: 38%;
 }
