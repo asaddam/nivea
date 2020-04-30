@@ -1,7 +1,7 @@
 html {
     background-size: contain;
-    background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center fixed;
-    background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center fixed, linear-gradient(#ffffff, #ffffff);;
+    background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed;
+    background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed, linear-gradient(#ffffff, #ffffff);;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
@@ -12,9 +12,10 @@ html {
 {
     html
     {
-        background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center;
+        background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center;
         background-size: cover;
-
+        height: auto;
+        width: fit-content;
     }
     .main {
         height: 100%;
