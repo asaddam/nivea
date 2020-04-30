@@ -5,7 +5,7 @@ html {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
-    height: 100%;
+    height: auto;
 }
 
 @media only screen and (orientation:portrait)
@@ -14,7 +14,7 @@ html {
     {
         background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed;
         background-size: cover;
-        height: 100%;
+        height: auto;
     }       
 }
 
