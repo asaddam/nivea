@@ -10,11 +10,13 @@ html {
 
 @media only screen and (orientation:portrait)
 {
-    html
-    {
-        background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center fixed;
-        background-size: cover;
-    }       
+    .main {
+        align-items: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        margin: auto;
+        max-height: 150%;
+    }     
 }
 
 .main {
