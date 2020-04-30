@@ -13,11 +13,12 @@ html {
     html
     {
         background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center;
-        background-size: cover;  
+        background-size: cover;
+
     }
     .main {
         height: 100%;
-        width: max-content;
+        width: fit-content;
     }       
 }
 
