@@ -1,11 +1,12 @@
-.content {
+html {
     background-size: contain;
     background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed;
     background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed, linear-gradient(#ffffff, #ffffff);;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
-    height: 601px;
+    height: auto;
+    width: 100%;
 }
 
 .main {
