@@ -55,8 +55,9 @@ html {
 .description {
     color: #00136f;
     text-align: left;
+    display: block;
     margin: auto;
-    font-size: 2em;
+    font-size: 1.1vw;
     padding-left: 20%;
     padding-right: 20%;
     font-family: Arial, Helvetica, sans-serif;
@@ -72,7 +73,7 @@ button {
     color: white;
     border-radius: 60px;
     text-decoration: solid;
-    font-size: 2em;
+    font-size: 1.2vw;
     font-weight: bold;
     margin: 6% 30%;
     letter-spacing: 2px;
@@ -94,7 +95,7 @@ button:hover {
 }
 .info {
     float: left;
-    font-size: 1.8em;
+    font-size: 1vw;
     color: #00136f;
     text-align: justify;
     display: block;
@@ -106,7 +107,7 @@ button:hover {
 }
 .call {
     float: left;
-    font-size: 1.8em;
+    font-size: 1vw;
     color: #00136f;
     width: 67%;
     margin-top: 2%;
@@ -116,7 +117,7 @@ button:hover {
 
 .footer{
     text-align: center;
-    font-size: 2em;
+    font-size: 1vw;
     color: #00136f;
 }
 
