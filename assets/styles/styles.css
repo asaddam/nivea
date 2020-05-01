@@ -7,7 +7,7 @@ body {
     height: auto;
 }
 
-@media only screen and (orientation:portrait)
+@media only screen and (min-width: 768px)
 {
     body
     {
@@ -23,8 +23,7 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     margin: auto;
-    max-width: fit-content;
-    max-height: max-content;
+    width: 100%;
     overflow: scroll;
 
     
