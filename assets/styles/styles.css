@@ -11,8 +11,8 @@ body {
 {
     body
     {
-        background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center center fixed;
-        background-size: cover 50%;
+        background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center;
+        background-size: cover;
         height: auto;
     }
          
