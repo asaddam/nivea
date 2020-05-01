@@ -24,8 +24,8 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     margin: auto;
-    max-height: max-content;
-    max-width: max-content;
+    max-height: fit-content;
+    max-width: fit-content;
     
 }
 
