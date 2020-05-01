@@ -24,7 +24,7 @@ body {
     padding-right: 5%;
     padding-bottom: -40%;
     margin: auto;
-    height: 150%;
+    min-height: 150%;
     
 }
 
