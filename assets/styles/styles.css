@@ -26,6 +26,7 @@ body {
     padding-bottom: -40%;
     margin: auto;
     height: 100%;
+    max-height: max-content;
     
 }
 
