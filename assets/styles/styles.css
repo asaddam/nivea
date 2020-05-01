@@ -1,4 +1,4 @@
-html {
+body {
     background-size: contain;
     background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed;
     background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center fixed, linear-gradient(#ffffff, #ffffff);;
@@ -6,15 +6,17 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
     height: auto;
+    position: absolute;
 }
 
 @media only screen and (orientation:portrait)
 {
-    html
+    body
     {
         background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center;
         background-size: cover;
         height: 60%;
+        width: 60%;
     }
     .main {
         height: fit-content;
