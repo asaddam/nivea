@@ -24,6 +24,7 @@ body {
     padding-right: 5%;
     margin: auto;
     max-width: fit-content;
+    max-height: max-content;
     overflow: scroll;
 
     
