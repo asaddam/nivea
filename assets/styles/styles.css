@@ -15,7 +15,7 @@ body {
     {
         background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center;
         background-size: cover;
-        
+        height: 100%;
     }
     .main {
         height: fit-content;
