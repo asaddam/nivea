@@ -7,7 +7,7 @@ body {
     height: auto;
 }
 
-@media only screen and (min-height: 768px)
+@media only screen and (max-height: 600px)
 {
     body
     {
