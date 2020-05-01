@@ -67,23 +67,23 @@ body {
 .my-button {
     size: 1.5vw;
     align-items: center;
-    margin: 6% 33%;
+    margin: 6% 35%;
     font-size: 1.2vw;
-
-
+    width: 33%;
 }
 
 button {
     background-color: #00136f;
-    padding: 0.5vw 1.3vw;
+    padding: 0.5vw 1.4vw;
     color: white;
     border-radius: 60px;
     text-decoration: solid;
     font-weight: bold;
-    letter-spacing: 1   px;
+    letter-spacing: 1px;
     display: block;
     align-items: center;
-    font-size: 1vw;
+    font-size: 1.1vw;
+
 }
 
 button:hover {
