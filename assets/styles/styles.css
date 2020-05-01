@@ -54,7 +54,7 @@ body {
     text-align: left;
     display: block;
     margin: auto;
-    font-size: 1.1vw;
+    font-size: 2.3vw;
     padding-left: 20%;
     padding-right: 20%;
     font-family: Arial, Helvetica, sans-serif;
@@ -62,22 +62,24 @@ body {
 
 .my-button {
     size: 1.5vw;
+    align-items: center;
+    margin: 6% 33%;
+    font-size: 1.2vw;
+
+
 }
 
 button {
     background-color: #00136f;
-    padding: 1vw 1vw;
+    padding: 0.5vw 1.3vw;
     color: white;
     border-radius: 60px;
     text-decoration: solid;
-    font-size: 1.2vw;
     font-weight: bold;
-    margin: 6% 30%;
-    letter-spacing: 2px;
-    size: 1.5vw;
+    letter-spacing: 1   px;
     display: block;
-    width: 30em;
-
+    align-items: center;
+    font-size: 1vw;
 }
 
 button:hover {
