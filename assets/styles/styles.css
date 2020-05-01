@@ -5,7 +5,7 @@ body {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     background-position: center;
-    height: auto;
+    height: 100%;
 }
 
 @media only screen and (orientation:portrait)
