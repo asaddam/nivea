@@ -7,12 +7,13 @@ body {
     height: auto;
 }
 
-@media only screen and (max-height: 600px)
+@media only screen and (min-height: 600px)
 {
     body
     {
-        background: url(/assets/images/nivea_hijab_newsletterr.jpg) no-repeat center center fixed;
+        background: url(/assets/images/nivea_hijab_newsletter.jpg) no-repeat center center fixed;
         background-size: cover;
+        height: auto;
     }
          
 }
